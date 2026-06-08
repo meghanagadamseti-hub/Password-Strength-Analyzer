@@ -1,5 +1,4 @@
-# Password-Strength-Analyzer
-Developed a Python-based Password Strength Analyzer that evaluates password security using complexity rules, entropy calculation, and common password detection techniques. Implemented intelligent password recommendations and secure password generation based on cybersecurity best practices.
+
 # 🔐 Password Strength Analyzer
 
 A Python-based Password Strength Analyzer that evaluates the security of user passwords by checking length, complexity, entropy, and common password patterns. The tool provides actionable suggestions and generates stronger password alternatives to improve account security.
